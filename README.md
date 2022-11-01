@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Andrea Motta
-- 👀 I’m studying MSc in Electronics Engineering @ Politecnico di Milano (IT) 
+- 👋 Hi, I’m Andrea Motta, 
+- 👀 I’m graduared in Electronics Engeneering and I'm currently studying MSc in Electronics Engineering @ Politecnico di Milano (IT)
 - 🌱 I’m currently learning:
     operating systems programming, 
     digital systems design,
