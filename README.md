@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning:
     operating systems programming, 
     digital systems design,
-    embeddes systems design.
+    embeddes systems design,
+    computer architecture,
+    hardware design.
 - 📫 How to reach me:     andrea10.motta@mail.polimi.it
 
 <!---
