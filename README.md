@@ -2,11 +2,10 @@
 - I’m graduated in MSc Electronics Engeneering
 - I'm currently pursuing a PhD in Computer Science @ Politecnico di Milano (IT)
 - 🌱 My main interests for my research are:
-    operating systems programming, 
-    digital systems design,
-    embeddes systems design,
-    computer architecture,
-    hardware design.
+    Memory architectures for hpc, 
+    SmartNICs architecture,
+    embedded systems HW/SW design,
+    and generally computer hardware design.
 - 📫 Feel free to contact me at:     andrea.motta <at> polimi.it
 
 <!---
